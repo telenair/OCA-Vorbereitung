@@ -6,6 +6,7 @@ public class Blubb{
 	String blubb = "Hallo Welt";
 	System.out.println(blubb);
 	System.out.println("Komm rein, nimm dir einen keks, setz dich hin... und halts Maul!");
+	System.out.println("test");
 	}
 }
 
