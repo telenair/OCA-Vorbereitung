@@ -1,4 +1,4 @@
-package wbs.operators_and_decisions;
+package oca_vorbereitung;
 
 public class ModuloDemo {
 
