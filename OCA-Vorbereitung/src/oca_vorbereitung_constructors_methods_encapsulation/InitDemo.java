@@ -1,4 +1,4 @@
-package oca_vorbereitung;
+package oca_vorbereitung_constructors_methods_encapsulation;
 
 public class InitDemo {
 	static {

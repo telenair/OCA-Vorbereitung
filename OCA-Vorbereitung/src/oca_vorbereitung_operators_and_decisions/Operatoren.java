@@ -1,4 +1,4 @@
-package oca_vorbereitung;
+package oca_vorbereitung_operators_and_decisions;
 
 public class Operatoren {
 

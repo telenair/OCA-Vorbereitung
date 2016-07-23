@@ -1,4 +1,4 @@
-package oca_vorbereitung;
+package oca_vorbereitung_arrays;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package oca_vorbereitung;
+package oca_vorbereitung_basic_data_types;
 
 public class PrimitiveDatentypen {
 
