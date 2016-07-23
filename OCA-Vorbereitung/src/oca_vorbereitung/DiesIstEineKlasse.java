@@ -7,6 +7,7 @@ public class DiesIstEineKlasse {
 		System.out.println("ölkjfnw");
 		System.out.println("add to index -> commit -> push");
 		System.out.println("ÖCÖKc ");
+		System.out.println("mal sehen ob das funzt...");
 	}
 
 }
