@@ -1,4 +1,4 @@
-package oca_vorbereitung_inheritance;
+package oca_vorbereitung_interfaces;
 
 interface I1{
 	int x = 2;		
